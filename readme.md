@@ -10,4 +10,4 @@
 
 程序员的基本修养.md记录的是听课过程中的个人笔记
 
-dailyPractice/ 是联系用文件
+dailyPractice/ 是日常练习文件夹
